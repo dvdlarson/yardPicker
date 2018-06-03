@@ -1,6 +1,9 @@
 
 <h1>Yard Picker</h1>
 
+View the project here:<br>
+<a href="https://yard-picker.herokuapp.com/">Yard Picker</a>
+
 <h2>Project #2 U of A Coding Bootcamp</h2>
 
 <h3>The Team</h3>
